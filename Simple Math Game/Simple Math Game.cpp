@@ -14,7 +14,7 @@ struct stQuize
     enLevelOfQuize LevelOfQuize;
     enOperationTypes OperationType;
     short NumberOfQuestion;
-    char OperationTupeChar;
+   
 };
 
 
